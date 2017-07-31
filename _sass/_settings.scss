@@ -1,0 +1,17 @@
+$color-twfy-green: #62B356;
+$color-twfy-blue: #4FADED;
+$color-twfy-red: #E04B4B;
+$color-twfy-cream: #F3F1EB;
+$color-twfy-taupe: #6C6B68;
+$color-twfy-black: #333333;
+
+$high-dpi-screen: '-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi';
+
+// Bootstrap overrides
+$body-bg: $color-twfy-cream;
+$font-family-sans-serif: "Source Sans Pro", Helvetica, Arial, sans-serif;
+$font-size-base: 16px;
+$grid-gutter-width: $font-size-base * 2;
+
+$icon-font-path: '../fonts/';
+$fa-font-path: "../fonts/";

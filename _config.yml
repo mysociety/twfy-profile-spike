@@ -1,0 +1,10 @@
+# Site settings
+title: TheyWorkForYou
+description: >
+  Quick Jekyll scratchpad for mySociety designers to play with
+  changes to the TheyWorkForYou MP profile page.
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+host: 0.0.0.0 # zarino.co.uk/post/jekyll-local-network

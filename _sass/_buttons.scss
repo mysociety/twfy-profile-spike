@@ -1,0 +1,10 @@
+.btn-subscribe {
+    @include button-variant(#fff, $color-twfy-red, darken($color-twfy-red, 5%));
+
+    &:before {
+        @extend .#{$fa-css-prefix};
+        @extend .#{$fa-css-prefix}-fw;
+        margin-right: 0.5em;
+        content: $fa-var-bell;
+    }
+}
